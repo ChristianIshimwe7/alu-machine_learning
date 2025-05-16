@@ -1,1 +1,1 @@
-lizations with Matplotlib
+initializations with Matplotlib
